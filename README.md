@@ -1,2 +1,3 @@
-# inspirastem-ppd-CO
-"Planetas en Construcción: Un Viaje a Través de Espectra Molecular" Taller
+# Planetas en Construcción: Un Viaje a Través de Espectra Molecular
+inspirastem-ppd-CO
+InspiraSTEM2026 Astrofisica Taller

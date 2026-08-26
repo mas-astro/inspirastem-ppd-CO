@@ -57,7 +57,8 @@ En grupos, los participantes serán investigadores de su propio disco protoplane
     * Nuestros Análises en Contexto
 
 ---
-
+## Biografía Breve del Instructor
+Mi nombre es Michael Sánchez y soy analista de datos científicos para el Observatorio Nacional de Radio Astronomía (NRAO) en Charlottesville, Virginia. Soy de padres salvadoreños; nací en Texas, donde estudié física en la Universidad de Texas State. Para mi licenciatura, investigué poblaciones de estrellas jóvenes en Orión, fuentes de rayos X extragalácticas y radioastronomía de bajo presupuesto. Durante mi maestría, investigué el contenido de monóxido de carbono en discos protoplanetarios y cómo afectará el desarrollo de planetas en estos discos. Tengo 9 años de experiencia analizando y visualizando datos astrofísicos en Python y en divulgación científica al público.
 
 `github.com/mas-astro/inspirastem-ppd-CO/`
 InspiraSTEM2026 Taller de Astrofísica

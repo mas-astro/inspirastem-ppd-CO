@@ -3,7 +3,7 @@ Una pregunta primordial entre los seres humanos es: ¿de dónde vino la Tierra? 
 Este taller explora los temas de la formación de planetas a través de los gases moleculares y cómo estos contribuyen al desarrollo y evolución del disco protoplanetario. Usando artículos y metodologías científicas, se analizarán datos de espectros moleculares observados con telescopios terrestres.
 Se utilizará Python, especialmente paquetes y librerías astronómicas (Astropy, Specutils, SciPy, entre otros), para realizar el análisis.
 
-## Objetivo
+## Objetivos del Taller
 Los objetivos de este taller se centran en las habilidades de investigación que adquirirá cada participante. Uno de los objetivos es explicar artículos de investigación de manera sencilla e impactante, con el fin de despertar la curiosidad y fomentar un entendimiento profundo de los discos protoplanetarios.
 Además, este objetivo se extiende a todos los campos de STEM, en el sentido de aprender cómo interpretar artículos científicos. Cada participante aprenderá técnicas para interpretar resultados científicos a través de la lectura de artículos. También adquirirán experiencia analizando datos reales de investigaciones contemporáneas en astronomía, empleando técnicas aplicables a largo plazo en STEM.
 Otro objetivo destacado del taller será comunicar y presentar de manera efectiva los resultados del trabajo realizado.

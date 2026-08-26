@@ -11,29 +11,45 @@ A largo plazo, estos aprendizajes serán de utilidad en varios campos de STEM, c
 ## Descripción del Proyecto de los Estudiantes
 En grupos, los participantes serán investigadores de su propio disco protoplanetario donde sacarán flujos de líneas espectroscópicas, modelarán espectros, harán un análisis de errores, aplicarán esos modelos a sus datos y compararán estadísticas e hipótesis sobre los resultados. Recopilaré los resultados para que podamos hacer un análisis en grupo, como clase, con el fin de caracterizar la muestra de discos protoplanetarios y situarlos en su contexto. 
 
-##Programa del Curso
+## Programa del Curso
 
 ### Día 1
-* Introducciones
+1. Introducciones
      * Del Instructor y Participantes
      * De Discos Protoplanetarios
          * Regímenes de Observación Astronómica
          * Anatomía
          * Evolución
      * Espectroscopía Molecular en Discos Protoplanetarios
-* Espectroscopia Molecular en Discos Protoplanetarios
+2. Espectroscopía Molecular en Discos Protoplanetarios
     * Mecanismos Físicos
     * Excitación y Kinemática
-    * Monóxido de Cárbono (CO) en el Interior del Disco
-* Nuestra Muestra de Discos Protoplanetarios
+    * Monóxido de Carbono (CO) en el Interior del Disco
+3. Nuestra Muestra de Discos Protoplanetarios
     * Discusión Grupal y General
     * Formar Hipótesis sobre cada Disco
----
+
 ### Día 2
+1. Modelos Espectroscópicos y Datos de Discos
+    * Modelo LTE (Equilibrio Térmico Local)
+        * iSLAT Programa
+    * Análises Espectroscópico
+        * Medición del Flujo de Líneas de Emisión
+        * Diagrama de Rotación
+        * Modelación de los Datos
+    * Discusión Grupal
 
+### Día 3
+1. Productos de Análises
+        * Colectar los Resultados del Análises
+2. Presentaciones de Resultados
+        * Presentaciones de cada Grupo
+3. Discusión y Conclusión
+        * Analizar los Resultados
+        * Nuestros Análises en Contexto
 
-
-github.com/mas-astro/inspirastem-ppd-CO/
+---
+`github.com/mas-astro/inspirastem-ppd-CO/`
 InspiraSTEM2026 Taller de Astrofísica
 ```
 

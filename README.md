@@ -1,4 +1,10 @@
 # Planetas en Construcción: Un Viaje a Través de Espectra Molecular
+
+## Resumen del Taller
+### Una pregunta primordial entre los seres humanos es: ¿de dónde vino la Tierra? Desde el descubrimiento de planetas extrasolares (exoplanetas) en 1995, los astrónomos han formado una comunidad dedicada al estudio de los exoplanetas y su formación.
+###Este taller explora los temas de la formación de planetas a través de los gases moleculares y cómo estos contribuyen al desarrollo y evolución del disco protoplanetario. Usando artículos y metodologías científicas, se analizarán datos de espectros moleculares observados con telescopios terrestres.
+Se utilizará Python, especialmente paquetes y librerías astronómicas (Astropy, Specutils, SciPy, entre otros), para realizar el análisis.
+
 github.com/mas-astro/inspirastem-ppd-CO/
 InspiraSTEM2026 Taller de Astrofísica
 ```

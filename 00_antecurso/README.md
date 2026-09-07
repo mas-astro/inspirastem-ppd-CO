@@ -1,4 +1,4 @@
-**Día 00 Materia Antecruso**
+# Día 00 Materia Antecruso
 
 Aquí encontrarás los materiales previos al curso. Se recomienda revisar el contenido de esta carpeta antes del inicio del taller para aprovecharlo al máximo.
 

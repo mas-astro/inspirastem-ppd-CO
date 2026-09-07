@@ -1,1 +1,8 @@
-
+#Paquetes para instalar:
+numpy
+pandas
+scipy
+astropy
+matplotlib
+specutils
+statistics

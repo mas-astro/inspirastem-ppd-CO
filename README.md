@@ -39,22 +39,22 @@ En grupos, los participantes serán investigadores de su propio disco protoplane
 
 ### Día 2
 1. Modelos Espectroscópicos y Datos de Discos
+    * Cómo Medir el Flujo de las Líneas de CO
     * Modelo LTE (Equilibrio Térmico Local)
         * iSLAT Programa
     * Análises Espectroscópicas
-        * Medición del Flujo de Líneas de Emisión
         * Diagrama de Rotación
         * Modelación de los Datos
     * Discusión Grupal
 
 ### Día 3
 1. Productos de Análisis
+    * Revisar Nuestro Análisis de Líneas
     * Colectar los Resultados del Análisis
 3. Presentaciones de Resultados
-    * Presentaciones de cada Grupo
 4. Discusión y Conclusión
     * Analizar los Resultados
-    * Nuestros Análisis en Contexto
+    * Nuestros Resultados en Contexto
 
 ---
 ## Biografía Breve del Instructor

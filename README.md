@@ -1,5 +1,8 @@
 # Planetas en Construcción: Un Viaje a Través de Espectra Molecular 
 
+![InspiraSTEM2026 Participantes del Taller.](/imagenes/IMG_0716.jpeg)
+
+
 ## Resumen del Taller
 Una pregunta primordial entre los seres humanos es: ¿de dónde vino la Tierra? Desde el descubrimiento de planetas extrasolares (exoplanetas) en 1995, los astrónomos han formado una comunidad dedicada al estudio de los exoplanetas y su formación.
 Este taller explora los temas de la formación de planetas a través de los gases moleculares y cómo estos contribuyen al desarrollo y evolución del disco protoplanetario. Usando artículos y metodologías científicas, se analizarán datos de espectros moleculares observados con telescopios terrestres.
@@ -59,6 +62,8 @@ En grupos, los participantes serán investigadores de su propio disco protoplane
 ---
 ## Biografía Breve del Instructor
 Mi nombre es Michael Sánchez y soy analista de datos científicos para el Observatorio Nacional de Radio Astronomía (NRAO) en Charlottesville, Virginia. Soy de padres salvadoreños; nací en Texas, donde estudié física en la Universidad de Texas State. Para mi licenciatura, investigué poblaciones de estrellas jóvenes en Orión, fuentes de rayos X extragalácticas y radioastronomía de bajo presupuesto. Durante mi maestría, investigué el contenido de monóxido de carbono en discos protoplanetarios y cómo afectará el desarrollo de planetas en estos discos. Tengo 9 años de experiencia analizando y visualizando datos astrofísicos en Python y en divulgación científica al público.
+
+[Encuéntrame en linkedIn](https://www.linkedin.com/in/michael-s%C3%A1nchez-astronomer2002/)
 
 `github.com/mas-astro/inspirastem-ppd-CO/`
 InspiraSTEM2026 Taller de Astrofísica
